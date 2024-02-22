@@ -161,7 +161,7 @@ const App = () => {
                   style={{
                     backgroundColor: "lightgreen",
                     height: "40px",
-                    width: "130px",
+                    width: "150px",
                     padding: "5px 10px",
                     color: todo.status === "completed" ? "white" : "black",
                     background:
